@@ -1,4 +1,4 @@
-# Assembly of Diadema antillarum mtDNA
+# Assembly of *Diadema antillarum* mtDNA
 
 ## List of files:
 
