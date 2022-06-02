@@ -16,7 +16,7 @@ The raw fastq data that supports the assembly were extracted with [Cookiecutter]
 
 You can download the extracted mtDNA-positive reads and assemble them using any prokaryotic assembler such as SPAdes.
 
-Example commands:
+Example command:
 
 ```bash
 spades.py -1 mtDNA_1.fastq.gz -2 mtDNA_2.fastq.gz -o assembly
