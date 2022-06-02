@@ -8,7 +8,7 @@ Genome annotation with MITOS: diadema_anthilarium_mtDNA.gff
 
 Genome visualization: genome.jpeg
 
-![Diadema antillarum mtDNA genome assembly]<img src="https://github.com/aglabx/mtDNA_assembly/blob/master/Diadema_anthilarum/genome.jpeg?raw=true" width="250">
+<img src="https://github.com/aglabx/mtDNA_assembly/blob/master/Diadema_anthilarum/genome.jpeg?raw=true" width="650">
 
 Raw fastq data that supports the assembly extracted with [Cookiecutter](https://github.com/ad3002/Cookiecutter): mtDNA_1.fastq.gz and mtDNA_2.fastq.gz
 
