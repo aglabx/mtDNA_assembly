@@ -16,5 +16,15 @@ Raw fastq data that supports the assembly extracted with [Cookiecutter](https://
 
 You can download the extracted mtDNA-positive reads and assemble them using any prokaryotic assembler such as SPAdes.
 
+Example commands:
+
+```bash
+spades.py -1 mtDNA_1.fastq.gz -2 mtDNA_2.fastq.gz -o assembly
+```
+
+Resulting assembly with partially assembled NUMTs in the file: scaffolds.spades.fasta
+
+After that, we manually rotated it to the usual beginning and do the reverse complement (the final assembly available in the file: diadema_anthilarium_mtDNA.fasta).
+
 
 
