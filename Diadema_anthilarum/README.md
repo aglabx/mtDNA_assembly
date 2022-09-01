@@ -8,6 +8,10 @@ Genome annotation with MITOS: **diadema_anthilarium_mtDNA.gff**
 
 Genome visualization: **genome.jpeg**
 
+Genome alignment: **diadema_anthilarium_mtDNA.sorted.bam**
+
+Coverage: **diadema_anthilarium_mtDNA.cov**
+
 <img src="https://github.com/aglabx/mtDNA_assembly/blob/master/Diadema_anthilarum/genome.jpeg?raw=true" width="650">
 
 The raw fastq data that supports the assembly were extracted with [Cookiecutter](https://github.com/ad3002/Cookiecutter): **mtDNA_1.fastq.gz** and **mtDNA_2.fastq.gz**
