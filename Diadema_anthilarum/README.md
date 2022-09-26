@@ -12,7 +12,7 @@ Genome alignment: **diadema_anthilarium_mtDNA.sorted.bam**
 
 Coverage: **diadema_anthilarium_mtDNA.cov**
 
-<img src="https://github.com/aglabx/mtDNA_assembly/blob/master/Diadema_anthilarum/genome.jpeg?raw=true" width="650">
+![Fig1_revised](https://user-images.githubusercontent.com/142793/192270699-20a0e533-365b-4ec9-9441-3fa5efefa9b0.jpg)
 
 The raw fastq data that supports the assembly were extracted with [Cookiecutter](https://github.com/ad3002/Cookiecutter): **mtDNA_1.fastq.gz** and **mtDNA_2.fastq.gz**
 
